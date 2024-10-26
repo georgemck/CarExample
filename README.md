@@ -1,2 +1,4 @@
 # CarExample
  
+
+export PATH=".:$PATH:~"
